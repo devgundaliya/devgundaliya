@@ -1,8 +1,8 @@
 ### Hey, I'm Dev 👋
 
-**MSc Artificial Intelligence @ Dublin Business School** · Software Engineer · Dublin, Ireland
+**MSc Artificial Intelligence @ [Dublin Business School](https://www.dbs.ie/)** · Software Engineer · [Dublin, Ireland](https://www.ireland.ie/en/)
 
-I build AI-integrated products that ship. Previously at [NuVista AI](http://nuvista.ai/) / Crest Infosystems.
+I build AI-integrated products that ship. Previously at [NuVista AI](http://nuvista.ai/) / [Crest Infosystems](https://www.crestinfosystems.com/).
 
 ---
 
