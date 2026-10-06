@@ -7,7 +7,7 @@ I build AI-integrated products that ship. Previously at <a href="http://nuvista.
 ---
 
 **What I'm working on**
-- MSc AI at DBS (Sept 2026 – present)
+- MSc AI at DBS (Sept 2026 - present)
 - AI/ML projects: CNNs, LLM workflows, agent automation
 - Open to part-time roles and internships in Dublin
 
@@ -23,9 +23,9 @@ I build AI-integrated products that ship. Previously at <a href="http://nuvista.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 **Featured projects**
-- 🧠 <a href="https://www.springerprofessional.de/en/revolutionizing-fast-food-classification-a-convolutional-neural-/53642166" target="_blank" rel="noopener noreferrer">CNN Food Classification</a> — Published research, ICICDS 2024
-- 📈 <a href="https://github.com/20CE034/bullrun-main" target="_blank" rel="noopener noreferrer">Bullrun</a> — Stock market simulator (MERN, SSIP seed grant)
-- 🎓 <a href="https://20ce034.github.io/SafeSide-ACG/" target="_blank" rel="noopener noreferrer">ACPC Counselling Guide</a> — Walk-in counselling tool
+- 🧠 <a href="https://www.springerprofessional.de/en/revolutionizing-fast-food-classification-a-convolutional-neural-/53642166" target="_blank" rel="noopener noreferrer">CNN Food Classification</a> - Published research, ICICDS 2024
+- 📈 <a href="https://github.com/20CE034/bullrun-main" target="_blank" rel="noopener noreferrer">Bullrun</a> - Stock market simulator (MERN, SSIP seed grant)
+- 🎓 <a href="https://20ce034.github.io/SafeSide-ACG/" target="_blank" rel="noopener noreferrer">ACPC Counselling Guide</a> - Walk-in counselling tool
 
 **Connect**
 <a href="https://www.linkedin.com/in/dev-gundaliya" target="_blank" rel="noopener noreferrer">LinkedIn</a> · <a href="https://scholar.google.com/citations?user=LQzuH8cAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a> · <a href="https://bit.ly/devg" target="_blank" rel="noopener noreferrer">Portfolio</a> · <a href="https://www.gitlab.com/20CE034" target="_blank" rel="noopener noreferrer">GitLab</a>
