@@ -1,8 +1,8 @@
 ### Hey, I'm Dev 👋
 
-**MSc Artificial Intelligence @ [Dublin Business School](https://www.dbs.ie/)** · Software Engineer · [Dublin, Ireland](https://www.ireland.ie/en/)
+**MSc Artificial Intelligence @ <a href="https://www.dbs.ie/" target="_blank" rel="noopener noreferrer">Dublin Business School</a>** · Software Engineer · <a href="https://www.ireland.ie/en/" target="_blank" rel="noopener noreferrer">Dublin, Ireland</a>
 
-I build AI-integrated products that ship. Previously at [NuVista AI](http://nuvista.ai/) / [Crest Infosystems](https://www.crestinfosystems.com/).
+I build AI-integrated products that ship. Previously at <a href="http://nuvista.ai/" target="_blank" rel="noopener noreferrer">NuVista AI</a> / <a href="https://www.crestinfosystems.com/" target="_blank" rel="noopener noreferrer">Crest Infosystems</a>.
 
 ---
 
@@ -23,9 +23,9 @@ I build AI-integrated products that ship. Previously at [NuVista AI](http://nuvi
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 **Featured projects**
-- 🧠 [CNN Food Classification](https://www.springerprofessional.de/en/revolutionizing-fast-food-classification-a-convolutional-neural-/53642166) — Published research, ICICDS 2024
-- 📈 [Bullrun](https://github.com/20CE034/bullrun-main) — Stock market simulator (MERN, SSIP seed grant)
-- 🎓 [ACPC Counselling Guide](https://20ce034.github.io/SafeSide-ACG/) — Walk-in counselling tool
+- 🧠 <a href="https://www.springerprofessional.de/en/revolutionizing-fast-food-classification-a-convolutional-neural-/53642166" target="_blank" rel="noopener noreferrer">CNN Food Classification</a> — Published research, ICICDS 2024
+- 📈 <a href="https://github.com/20CE034/bullrun-main" target="_blank" rel="noopener noreferrer">Bullrun</a> — Stock market simulator (MERN, SSIP seed grant)
+- 🎓 <a href="https://20ce034.github.io/SafeSide-ACG/" target="_blank" rel="noopener noreferrer">ACPC Counselling Guide</a> — Walk-in counselling tool
 
 **Connect**
-[LinkedIn](https://www.linkedin.com/in/dev-gundaliya) · [Google Scholar](https://scholar.google.com/citations?user=LQzuH8cAAAAJ&hl=en) · [Portfolio](https://bit.ly/devg) · [GitLab](https://www.gitlab.com/20CE034)
+<a href="https://www.linkedin.com/in/dev-gundaliya" target="_blank" rel="noopener noreferrer">LinkedIn</a> · <a href="https://scholar.google.com/citations?user=LQzuH8cAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a> · <a href="https://bit.ly/devg" target="_blank" rel="noopener noreferrer">Portfolio</a> · <a href="https://www.gitlab.com/20CE034" target="_blank" rel="noopener noreferrer">GitLab</a>
